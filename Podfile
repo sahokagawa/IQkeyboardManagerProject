@@ -6,6 +6,8 @@ target 'IQkeyboardManagerProject' do
   use_frameworks!
 
   # Pods for IQkeyboardManagerProject
- pod 'IQKeyboardManagerSwift'
-pod 'FontAwesome.swift'
+  pod 'IQKeyboardManagerSwift'
+  pod 'FontAwesome.swift'
+  pod 'RevealingSplashView'
+
 end
